@@ -1,8 +1,6 @@
 fastapi
 uvicorn
 streamlit
-langchain
-langchain-openai
 pypdf2
 python-dotenv
 requests
